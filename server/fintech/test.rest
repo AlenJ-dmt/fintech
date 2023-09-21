@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8000/api/transactions/
+Content-Type: application/json
+
+{"merchant": "Exito", "value": "300"}
